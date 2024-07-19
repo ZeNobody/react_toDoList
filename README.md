@@ -6,7 +6,7 @@ Desenvolvido em **Javascript** com a combinação de [Vite](https://vitejs.dev/)
 
 O projeto não utiliza um banco de dados, todos os dados são armazenados temporariamente durante a sessão do navegador. 
 
-A aplicação é hospedada gratuitamente na [vercel](https://vercel.com/), e pode ser acessada [aqui](https://todolist-mu-three-62.vercel.app/). 
+Está hospedado gratuitamente na [vercel](https://vercel.com/), e pode ser acessada [aqui](https://todolist-mu-three-62.vercel.app/). 
 
 
 ## Instalação
